@@ -1,0 +1,23 @@
+'Insurance Management System'
+
+
+Project Name: Insurance Management System
+
+   
+
+How-to-Use (For Customer) -
+1.If you are new then first REGISTER your self, by registering you will recevie your Login-Credentail's.
+2.Login to your account.
+3.Apply for a Policy.
+4.Ask your Query.
+5.Give a FeedBack. 
+
+How-to-Use (For Admin) -
+1.Login to the system.
+2.Approve/Reject Policy Application's.
+3.Create New Policie's.
+4.Update existing Policie's.
+5.Check Querie's Asked by the Customer's, give Reply to them.
+6.Read the FeedBack's given by Customer's.
+
+               **********************************
